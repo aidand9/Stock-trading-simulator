@@ -1,1 +1,1 @@
-# C43_Project
+A stock-trading simulator using Java with PostgreSQL. Includes users, friends, portfolios, stocklists, and many more features. Utilizes machine learning regression algorithms to predict future prices.
